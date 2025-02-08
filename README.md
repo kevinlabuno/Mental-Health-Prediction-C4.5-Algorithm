@@ -1,4 +1,4 @@
-## 🧠 About Mental Health Prediction - C4.5 Algorithm
+## 🧠 Mental Health Prediction - C4.5 Algorithm
 
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank">
